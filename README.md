@@ -19,6 +19,9 @@ There were 16 times as many drivers in Suburban cities than there were in Rural 
 
 The total fares were 4.5 times higher in Suburban cities than they were in Rural Cities, and the total fares were 9.2 times higher in Urban cities than they were in Rural cities.
 
+<img width="990" alt="Screen Shot 2022-09-25 at 12 01 47 PM" src="https://user-images.githubusercontent.com/111151454/192160835-5bdae396-ea19-4794-b959-6d3c393ac234.png">
+
+
 
 
 ## Summary
